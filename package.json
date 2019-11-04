@@ -6,6 +6,6 @@
   "author": "Santosh Marigowda <santosharakere@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "mongoose": "^5.6.1"
+    "mongoose": "^5.7.5"
   }
 }
